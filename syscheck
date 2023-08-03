@@ -1,0 +1,3 @@
+ECHO "Welcome to SYSCHECK! This is a completely in-console edition of the About screen."
+
+Get-ComputerInfo
